@@ -31,7 +31,7 @@ function doubleOrTriple(number, doDouble) {
 // console.log(doubleOrTriple(5, true))
 // console.log(doubleOrTriple(5, false))
 
-// find array length with function
+// find array length with function ----------------->
 
 function numberOfElement(numbers) {
     const len = numbers.length;
@@ -40,6 +40,7 @@ function numberOfElement(numbers) {
 
 // console.log(numberOfElement([20, 30, 40, 50, 60]));
 
+// get age form an object.-------------->
 function getAge(person) {
     const age = person.age;
     return age;
