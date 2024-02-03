@@ -51,17 +51,19 @@ var---------->
 -> let কে reassign করা যাবে । and modify ও করা যাবে।
 -> redeclare করা যায়।
 -> hoist হয়।
+-> global variable।
 
 const---------->
 -> const কে reassign করা যাবে না। কিন্তু modify করা যাবে।
 -> redeclare করা যাবে না।
 -> hoist হয় না।
+-> block scope variable 
 
 let ----------->
 -> let কে reassign করা যাবে । and modify ও করা যাবে।
 -> redeclare করা যাবে না।
 -> hoist হয় না।
-
+-> block scope variable 
 */
 
 /*
